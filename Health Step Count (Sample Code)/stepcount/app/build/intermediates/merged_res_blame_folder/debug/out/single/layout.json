@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-mergeDebugResources-19:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.stepcount.app-mergeDebugResources-19:/layout/activity_main.xml",
+        "source": "com.samsung.sdc21.stepcount.app-main-22:/layout/activity_main.xml"
+    }
+]

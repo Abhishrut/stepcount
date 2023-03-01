@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.samsung.sdc21.stepcount.StepsReaderUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-02-19T15:31:58" hostname="PREDATOR-15" time="0.162">
+  <properties/>
+  <testcase name="readAggregatedDataWillThrowExceptionWhenHealthDataClientIsNullTest_N" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.028"/>
+  <testcase name="readStepsFromAggregatedDataResponseWillReturnStepsCount_P" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.103"/>
+  <testcase name="readStepsFromAggregatedDataResponseWillReturnStepsCountFromAllCumulativeDataListElements_P" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.001"/>
+  <testcase name="readAggregatedDataWillReturnCorrectObject_P" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.026"/>
+  <testcase name="readStepsFromAggregatedDataResponseWillReturnZeroWhenListIsEmpty_N" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.001"/>
+  <testcase name="readStepsFromAggregatedDataResponseWillReturnZeroWhenParameterIsNull_N" classname="com.samsung.sdc21.stepcount.StepsReaderUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

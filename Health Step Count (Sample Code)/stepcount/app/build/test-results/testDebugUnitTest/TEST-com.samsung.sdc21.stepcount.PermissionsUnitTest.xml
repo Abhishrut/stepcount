@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.samsung.sdc21.stepcount.PermissionsUnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-02-19T15:31:58" hostname="PREDATOR-15" time="0.045">
+  <properties/>
+  <testcase name="requestPermissionsWillThrowExceptionWhenHealthDataClientIsNullTest_N" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.036"/>
+  <testcase name="arePermissionsGrantedWillReturnFalseWhenParameterIsNull_N" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.0"/>
+  <testcase name="arePermissionsGrantedWillReturnFalseWhenPermissionsSetIsEmpty_N" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.0"/>
+  <testcase name="getGrantedPermissionsWillThrowExceptionWhenHealthDataClientIsNullTest_N" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.001"/>
+  <testcase name="getGrantedPermissionsWillReturnCorrectObject_P" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.0"/>
+  <testcase name="requestPermissionsWillReturnCorrectObject_P" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.0"/>
+  <testcase name="arePermissionsGrantedWillReturnFalseWhenPermissionsSetDoNotContainsStepsReadPermission_P" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.001"/>
+  <testcase name="arePermissionsGrantedWillReturnTrueWhenPermissionsSetContainsStepsReadPermission_P" classname="com.samsung.sdc21.stepcount.PermissionsUnitTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

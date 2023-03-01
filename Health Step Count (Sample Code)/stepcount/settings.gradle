@@ -1,0 +1,2 @@
+rootProject.name = "com.samsung.sdc21.stepcount"
+include ':app'

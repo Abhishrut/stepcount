@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.stepcount.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.samsung.sdc21.stepcount.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-merged_res-20:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\.gradle\\daemon\\7.5\\com.samsung.sdc21.stepcount.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

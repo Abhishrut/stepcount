@@ -1,0 +1,10 @@
+<resources>
+    <string name="desc_step_count">Today\’s Step Count</string>
+    <string name="today">Today</string>
+    <string name="total">Total</string>
+    <string name="unit_steps">Steps</string>
+    <string name="steps_refresh">Refresh</string>
+    <string name="read_permissions_error">Can\'t read permissions.</string>
+    <string name="request_permissions_error">Request permissions failed.</string>
+    <string name="read_steps_failed">Read steps failed.</string>
+</resources>

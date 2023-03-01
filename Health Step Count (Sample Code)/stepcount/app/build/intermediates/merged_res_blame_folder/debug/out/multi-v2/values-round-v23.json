@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.samsung.sdc21.stepcount.app-mergeDebugResources-18:/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abhis\\Desktop\\Health Step Count (Sample Code)\\stepcount\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1,6,8,7,5,2,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,255,413,331,205,80,120,160",
+                        "endColumns": "63,75,64,81,49,39,39,44",
+                        "endOffsets": "75,326,473,408,250,115,155,200"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,348,424,489,571,621,661,701",
+                        "endColumns": "63,75,64,81,49,39,39,44",
+                        "endOffsets": "343,419,484,566,616,656,696,741"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhis\\.gradle\\caches\\transforms-3\\504137ed70d05345767071d2b3d8e52b\\transformed\\wear-1.2.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                }
+            ]
+        }
+    ]
+}

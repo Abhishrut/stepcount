@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\abhis\.gradle\caches\transforms-3\5e4f587c049de9aef1689456d23061a8\transformed\viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\abhis\.gradle\caches\transforms-3\d881513d87c1c8cac0b5857dc2d57ab0\transformed\play-services-wearable-17.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\9d176775317069376dff6dd74a6dc53a\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\abhis\.gradle\caches\transforms-3\1d27ff53c2e2f8ed5905b90adcd6b5db\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\abhis\.gradle\caches\transforms-3\ddf83f750e2b46d45c980e431ca0a682\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\abhis\.gradle\caches\transforms-3\bbc557be9c9a6d4fbc8e0549b7c951fa\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\af310258920cf8caaadfccc0263d151f\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\abhis\.gradle\caches\transforms-3\cb1d4c47e319e6d895f71172ec7037ae\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\5dabfd01604344f7b004399fe580c601\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\b70d3509e7b63925b30cdfbf904df3e7\transformed\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\aa3d602cd22bda50ea541a764be2523f\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\dcab2ccd2afeb68d5dbad6d576d2d43c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\85fd1d3c9f702ad2a1060334e8ba52fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abhis\.gradle\caches\transforms-3\2588dbebb914a4847c23b9e2e9390de9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\66e26fd63f47e151ec697b25567af38c\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\f77c37e9f6201e40b1244ba20d2a9c98\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\314afe50cb7b93d60a17c1b0c3aac485\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\fda4700c364d4139d33c5cb29ff2cc84\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\775a6cf7b8595445964c1b439bee1ff6\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\abhis\.gradle\caches\transforms-3\65503080a3128e0eb6820fb4620289f6\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\cf17040dba9b475bf09190f046a6996d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:7:19-61
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:9:22-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:12:22-68
+application
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\abhis\.gradle\caches\transforms-3\d881513d87c1c8cac0b5857dc2d57ab0\transformed\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\abhis\.gradle\caches\transforms-3\d881513d87c1c8cac0b5857dc2d57ab0\transformed\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:13:5-18:19
+MERGED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:13:5-18:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\abhis\.gradle\caches\transforms-3\ddf83f750e2b46d45c980e431ca0a682\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\abhis\.gradle\caches\transforms-3\ddf83f750e2b46d45c980e431ca0a682\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\abhis\.gradle\caches\transforms-3\bbc557be9c9a6d4fbc8e0549b7c951fa\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\abhis\.gradle\caches\transforms-3\bbc557be9c9a6d4fbc8e0549b7c951fa\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abhis\.gradle\caches\transforms-3\2588dbebb914a4847c23b9e2e9390de9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abhis\.gradle\caches\transforms-3\2588dbebb914a4847c23b9e2e9390de9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:19:9-59
+uses-library#com.google.android.wearable
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:20:9-22:39
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:25:9-27:40
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:21:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:28:9-30:36
+	android:value
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:30:13-33
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:29:13-66
+activity#com.samsung.sdc21.stepcount.MainActivity
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:33:13-68
+intent-filter#action:name:android.hardware.sensor.action.TRIGGER+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:35:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:38:27-74
+action#android.hardware.sensor.action.TRIGGER
+ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:39:17-81
+	android:name
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml:39:25-78
+uses-sdk
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\abhis\.gradle\caches\transforms-3\5e4f587c049de9aef1689456d23061a8\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\abhis\.gradle\caches\transforms-3\5e4f587c049de9aef1689456d23061a8\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\abhis\.gradle\caches\transforms-3\d881513d87c1c8cac0b5857dc2d57ab0\transformed\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\abhis\.gradle\caches\transforms-3\d881513d87c1c8cac0b5857dc2d57ab0\transformed\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\9d176775317069376dff6dd74a6dc53a\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\9d176775317069376dff6dd74a6dc53a\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\504137ed70d05345767071d2b3d8e52b\transformed\wear-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\abhis\.gradle\caches\transforms-3\1d27ff53c2e2f8ed5905b90adcd6b5db\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\abhis\.gradle\caches\transforms-3\1d27ff53c2e2f8ed5905b90adcd6b5db\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\abhis\.gradle\caches\transforms-3\ddf83f750e2b46d45c980e431ca0a682\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\abhis\.gradle\caches\transforms-3\ddf83f750e2b46d45c980e431ca0a682\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\abhis\.gradle\caches\transforms-3\bbc557be9c9a6d4fbc8e0549b7c951fa\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\abhis\.gradle\caches\transforms-3\bbc557be9c9a6d4fbc8e0549b7c951fa\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\af310258920cf8caaadfccc0263d151f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\af310258920cf8caaadfccc0263d151f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\abhis\.gradle\caches\transforms-3\cb1d4c47e319e6d895f71172ec7037ae\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\abhis\.gradle\caches\transforms-3\cb1d4c47e319e6d895f71172ec7037ae\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\5dabfd01604344f7b004399fe580c601\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\5dabfd01604344f7b004399fe580c601\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\b70d3509e7b63925b30cdfbf904df3e7\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\b70d3509e7b63925b30cdfbf904df3e7\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\aa3d602cd22bda50ea541a764be2523f\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abhis\.gradle\caches\transforms-3\aa3d602cd22bda50ea541a764be2523f\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\dcab2ccd2afeb68d5dbad6d576d2d43c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\dcab2ccd2afeb68d5dbad6d576d2d43c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\85fd1d3c9f702ad2a1060334e8ba52fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\85fd1d3c9f702ad2a1060334e8ba52fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\abhis\.gradle\caches\transforms-3\479dd4bb6612b7cfbdde7fd13a3daa5e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abhis\.gradle\caches\transforms-3\2588dbebb914a4847c23b9e2e9390de9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abhis\.gradle\caches\transforms-3\2588dbebb914a4847c23b9e2e9390de9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\66e26fd63f47e151ec697b25567af38c\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\66e26fd63f47e151ec697b25567af38c\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\f77c37e9f6201e40b1244ba20d2a9c98\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\f77c37e9f6201e40b1244ba20d2a9c98\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\314afe50cb7b93d60a17c1b0c3aac485\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\314afe50cb7b93d60a17c1b0c3aac485\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\fda4700c364d4139d33c5cb29ff2cc84\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abhis\.gradle\caches\transforms-3\fda4700c364d4139d33c5cb29ff2cc84\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\775a6cf7b8595445964c1b439bee1ff6\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\abhis\.gradle\caches\transforms-3\775a6cf7b8595445964c1b439bee1ff6\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\abhis\.gradle\caches\transforms-3\65503080a3128e0eb6820fb4620289f6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\abhis\.gradle\caches\transforms-3\65503080a3128e0eb6820fb4620289f6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\cf17040dba9b475bf09190f046a6996d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\abhis\.gradle\caches\transforms-3\cf17040dba9b475bf09190f046a6996d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhis\Desktop\Health Step Count (Sample Code)\stepcount\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:7:5-11:15
+package#com.samsung.android.service.health
+ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:8:9-70
+	android:name
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:8:18-67
+package#com.sec.android.app.samsungapps
+ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:9:9-67
+	android:name
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:9:18-64
+package#com.android.vending
+ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:10:9-55
+	android:name
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:10:18-52
+activity#com.google.android.libraries.healthdata.impl.permission.ProviderPermissionActivity
+ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:14:9-17:67
+	android:exported
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:17:13-64
+	android:name
+		ADDED from [com.google.android.libraries.healthdata:health-data-api:1.1.0-alpha01] C:\Users\abhis\.gradle\caches\transforms-3\6a6562383428e1ffc0f89ec66cebfc5d\transformed\health-data-api-1.1.0-alpha01\AndroidManifest.xml:15:13-110
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\abhis\.gradle\caches\transforms-3\7edf8dc3f3b640c4236888378e9d1d99\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\abhis\.gradle\caches\transforms-3\bc3877044b8b45761dd9b7b4a8158a88\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
